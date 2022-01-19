@@ -1,5 +1,5 @@
 # Legend-of-Zelda-pack
-Minecraft texture pack
+Google extension
 ---------------------------------
 Progress Report:
 * Finish the Main Logo.
